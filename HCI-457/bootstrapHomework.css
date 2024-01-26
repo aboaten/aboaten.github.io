@@ -76,10 +76,45 @@ h2{
     font-weight:700;
 }
 
+h3 {
+    font-size: 1.424em;
+    font-weight:700;
+
+}
+
+h4 {
+    font-size: 1.266em;
+
+}
+
+
 .footer-ab{
     text-align: center;
 }
 
 .row1, .row2, .row3 {
     font-family: 'Montserrat', sans-serif;
+}
+
+.btn-primary{
+    background-color: rgb(117, 24, 223);
+    border-color:rgb(117, 24, 223);
+}
+
+.btn-primary:hover{
+    background-color:rgb(5, 21, 109);
+}
+
+.card-base{
+    text-align:center !important;
+}
+
+.carousel-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.carousel-control-next-icon, 
+.carousel-control-prev-icon{
+    background-color:rgb(39, 72, 221);
 }
