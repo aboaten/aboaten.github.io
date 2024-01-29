@@ -1,0 +1,255 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.nav-link{
+    color:rgb(245, 245, 245) !important;
+}
+
+.nav-link:hover {
+    color:rgb(0, 192, 250) !important;
+}
+
+.navbar-brand{
+    color:rgb(232, 232, 232) !important;
+}
+
+.nav-bar-color{
+    background-color:rgb(118, 80, 255) !important;
+}
+
+html body{
+    background-color:rgb(255, 255, 255) !important;
+}
+
+/* .titlePage{
+    text-align: center;
+} */
+
+.titleInfo{
+    font-family: 'Hanuman', serif;
+    text-align: left;
+}
+
+h1{
+    font-family: 'Hanuman', serif;
+    font-size: 89.76px;
+    font-weight: 400px;
+    font-style: Normal;
+  
+}
+
+.RalewayH1{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 61.04px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+.OswaldH1{
+    Font-Family: 'Oswald', sans-serif;
+    Font-size: 127.88px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+h2{
+    Font-Family: 'Hanuman', serif;
+    Font-size: 67.34px;
+    Font-weight: 400px;
+    Font-style: Normal;
+    
+  
+}
+
+.RalewayH2{
+Font-Family: 'Raleway', sans-serif;
+Font-size: 48.83px;
+Font-weight: 700px;
+Font-style: Normal;
+
+}
+
+.OswaldH2{
+    Font-Family: 'Oswald', sans-serif;
+    Font-size: 90.44px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+h3{
+    Font-Family: 'Hanuman', serif;
+    Font-size: 50.52px;
+    Font-weight: 400px;
+    Font-style: Normal;
+    
+}
+
+.RalewayH3{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 39.06px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+.OswaldH3{
+    Font-Family: 'Oswald', sans-serif;
+    Font-size: 63.96px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+h4{
+    Font-Family: 'Hanuman', serif;
+    Font-size: 37.9px;
+    Font-weight: 400px;
+    Font-style: Normal;
+}
+
+.RalewayH4{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 31.25px;
+    Font-weight: 700px;
+    Font-style: Normal;
+
+}
+
+.OswaldH4{
+    Font-Family: 'Oswald', sans-serif;
+    Font-size: 45.23px;
+    Font-weight: 700px;
+    Font-style: Normal;
+    
+}
+
+.NunitoSansBody {
+    Font-Family: 'Nunito Sans', sans-serif;
+    Font-size: 16px;
+    Font-weight:700px;
+    font-size: Normal;
+    
+}
+
+.HanumanParagraph{
+    Font-Family: 'Hanuman', serif;
+    Font-size: 16px;
+    Font-weight:Normal;
+    font-size: Normal;
+    
+}
+
+.RalewayBody{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 16px;
+    Font-weight: 500px;
+    Font-style: Normal;
+
+}
+
+.NotoSansBody{
+    Font-Family: 'Noto Sans';
+    Font-size: 16px;
+    Font-weight: 500px;
+    Font-style: Normal;
+
+}
+
+.OswaldBody{
+    Font-Family: 'Oswald', sans-serif;
+    Font-size: 16px;
+    Font-weight: 100px;
+    Font-style: Normal;
+
+} 
+
+.NunitoSansEmphasis{
+    Font-Family: 'Nunito Sans', sans-serif;
+    Font-size: 16px / 1rem;
+    Font-weight: 400px;
+    Font-style: Italic;
+
+}
+
+.RalewayEmphasis{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 16px;
+    Font-weight: 500px;
+    Font-style: Italic;
+
+}
+
+.NotoSansEmphasis{
+    Font-Family: 'Noto Sans', sans-serif;
+    Font-size: 16px;
+    Font-weight: 500px;
+    Font-style: Italic;
+
+}
+
+.NunitoSansLink{
+    Font-Family: 'Nunito Sans', sans-serif;
+    Font-size: 16px / 1rem;
+    Font-weight: 400px;
+    Font-style: Normal;
+    text-decoration: underline;
+    color: rgb(0, 71, 171);
+
+}
+
+.RalewayLink{
+    Font-Family: 'Raleway', sans-serif;
+    Font-size: 16px / 1rem;
+    Font-weight: 500;
+    Font-style: Normal;
+    Text-decoration: underline;
+    Color: rgb(0, 71, 171);
+}
+
+.NunitoSansLink:hover{
+    color: rgb(255, 87, 51);
+}
+
+.RalewayLink:hover{
+    color: rgb(255, 87, 51);
+}
+
+.NotoSansLink:hover{
+    color: rgb(255, 87, 51);
+}
+
+.NotoSansLink{
+    Font-Family: 'Noto Sans', sans-serif;
+    Font-size: 16px;
+    Font-weight: 500px;
+    Font-style: Normal;
+    Text-decoration: underline;
+    Color: rgb(0, 71, 171); 
+}
+
+
+.type1{
+    text-align:justify;
+    padding-top: 115px;
+    color: rgb(30, 0, 107);
+} 
+
+
+.type2{
+    text-align:justify;
+    padding-top: 90px;
+    color: rgb(43, 0, 151);
+
+}
+
+
+.type3{
+    text-align:justify;
+    padding-top: 90px;
+    color: rgb(43, 0, 151);
+
+}
