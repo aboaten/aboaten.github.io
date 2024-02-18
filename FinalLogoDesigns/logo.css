@@ -1,0 +1,17 @@
+
+.nav-bar-color{
+    background-color:#757BBB !important;
+}
+
+.nav-highlight, .navbar-brand{
+    color:rgb(255, 255, 255) !important;
+    font-weight: 700;
+}
+
+.nav-link{
+    color:rgb(255, 255, 255) !important;
+}
+
+.nav-link:hover {
+    color:#EDD577 !important;
+}
